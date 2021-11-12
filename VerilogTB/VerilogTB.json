@@ -1,0 +1,11 @@
+{
+    "Name" : "VerilogTB",
+    "Version" : "1.0.0",
+    "Description" : [
+           "Verilog testbeanch generator",
+           "Get verilog template for use in testbeanch."
+       ],
+    "Patterns" : [
+        "Port info: direction [type] [bus_info] name"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "Name" : "XlnxIP C source",
+    "Version" : "1.0.0",
+    "Description" : [
+           "XILINX IP core c source for driver generator",
+           "Generate all necessary structur for initialization and register access."
+       ],
+    "Patterns" : [
+        "First line: name_of_ip",
+        "Other line: reg_name r|w|rw 8|16|32 0x<offset_hex>"
+    ]
+}
