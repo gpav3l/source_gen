@@ -1,7 +1,7 @@
 # README #
 
-App for generation text by input data, and selected pattern. Main goal was create simple app, that help me generate verilog testbench and driver template for custom IP cores.
-App build with Qt and MinGW compiler, and every generator make as plugin (yes, second aim was create test app for me that use plugin). 
+App for generation text from input data and selected pattern. The main goal was created simple app, that help me generate Verilog testbench and driver template for custom IP cores.
+App builds with Qt and MinGW compiler, and every generator make as a plugin (yes, second aim was create a test app for me that use plugin).
 
 ### Installation ###
 
